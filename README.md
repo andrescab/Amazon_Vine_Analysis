@@ -33,4 +33,5 @@ The aim of the analysis is to determine if there is any bias toward favorable re
 
 ## Summary: 
 
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+In summary, there are 41.62 % of 5-stars Vine reviews while the percentage of non-Vine reviews is only 53.02%. This shows that there is no positive bias for reviews in sports products in the Vine program.
+Moreover, we could apply the Central Tendency Analysis for the star rating in the Vine and non-Vine program.
